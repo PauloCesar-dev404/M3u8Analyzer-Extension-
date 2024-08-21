@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3u8Analyzer
+</title>
+<link rel="stylesheet" href="srcs/styles.css">
+</head>
+<body>
+    <div class="logo">
+    <img src="icons/favicon-128x128.png" alt="200" width="200" title="logo">
+    </div>
+    <div id="menu">
+        <h1 id="pgt1">Selecione as Abas para Interceptar</h1>
+        <div class="erro" id="not-abas"><h2>😞 sem Abas...</h2></div>
+        <div id="buttons-abas"></div>
+        <button id="save-config" style="display: none;">Salvar Configuração</button>
+        <hr>
+    </div>
+    <menu type="context" id="buttons-menu">
+    <button id="resetMemory">Resetar Memória Da Extensão</button> <button id="resetHls">Apagar Hls Interceptados</button><button id="refresh">Recarregar Extensão</button>
+</menu>
+    
+    <h1 id="infor"><span id="abas-inter"></span></h1>
+    <div class="erro" id="not-hls"><h2>🥹 Sem streams do tipo m3u8...</h2></div>
+    <ul id="trafficList"></ul>
+    <script src="interativos/pop.js"></script>
+    <hr>
+    <footer>
+        <a href="ajuda.html" target="_parent"><button>Ajuda</button></a>
+        <p><a href="https://github.com/PauloCesar-dev404" target="_blank" rel="noopener noreferrer">&copy; 2024 PauloCesar0073-dev404</a></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "M3u8Analyzer",
+    "version": "1.0.0.0",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "storage",
+      "<all_urls>",
+      "activeTab",
+      "tabs"
+    ],
+    "background": {
+      "scripts": ["interativos/background.js"],
+    "persistente":true
+    },
+    "browser_action": {
+      "default_popup": "index.html"
+      },
+"content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["interativos/pop.js"]
+    }
+  ],
+  "icons": {
+    "16": "icons/favicon-16x16.png",
+    "32": "icons/favicon-32x32.png",
+    "192": "icons/favicon-128x128.png"
+  }
+}
