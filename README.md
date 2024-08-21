@@ -38,4 +38,4 @@ Siga as etapas abaixo para instalar a extensão **M3u8Analyzer
 
 Certifique-se de seguir cuidadosamente as instruções correspondentes ao seu navegador para uma instalação bem-sucedida.
 
- 💲[Apoie oprojeto](https://apoia.se/m3u8analyzer-extension)
+ 💲[Apoie o projeto](https://apoia.se/m3u8analyzer-extension)
