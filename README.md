@@ -1,10 +1,14 @@
 <div align="center">
   <h1><img src="extens\icons\favicon-128x128.png"></h1>
+
+![Versão](https://img.shields.io/badge/version-1.0.0.0-blue)
+![Licença](https://img.shields.io/badge/license-MIT-orange)![Estrelas](https://img.shields.io/github/stars/PauloCesar-dev404/M3u8Analyzer-Extension-?style=social)
+[![Sponsor](https://img.shields.io/badge/💲Donate-yellow)](https://apoia.se/paulocesar-dev404)
+
+
 </div>
 
-<p align="center">
-  <code>version: 1.0.0.0</code> | <code>author: PauloCesar-dev404</code> | <code>LICENSE: MIT</code>
-</p>
+
 
 
 # M3u8Analyzer
@@ -38,4 +42,3 @@ Siga as etapas abaixo para instalar a extensão **M3u8Analyzer
 
 Certifique-se de seguir cuidadosamente as instruções correspondentes ao seu navegador para uma instalação bem-sucedida.
 
- 💲[Apoie o projeto](https://apoia.se/m3u8analyzer-extension)
