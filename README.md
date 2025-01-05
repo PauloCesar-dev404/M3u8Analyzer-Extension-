@@ -3,7 +3,7 @@
 
 ![Versão](https://img.shields.io/badge/version-1.0.0.0-blue)
 ![Licença](https://img.shields.io/badge/license-MIT-orange)![Estrelas](https://img.shields.io/github/stars/PauloCesar-dev404/M3u8Analyzer-Extension-?style=social)
-[![Sponsor](https://img.shields.io/badge/💲Donate-yellow)](https://apoia.se/paulocesar-dev404)
+[![Sponsor](https://img.shields.io/badge/💲Donate-yellow)](https://paulocesar-dev404.github.io/me-apoiando-online/)
 
 
 </div>
